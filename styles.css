@@ -1,11 +1,14 @@
 body {
 	background-color:#99CCFF;
 }
-.open {
+h1 {
+	text-align: center;
+}
+.Open {
 	color:blue; 
 	font-size:30px;"
 }
-.closing {
+.Closing {
 	color: blue;
 	font-size: 16px;
 }
