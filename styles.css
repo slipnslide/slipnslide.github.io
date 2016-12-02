@@ -21,6 +21,20 @@ h3 {
 	list-style: none;
 	text-align: center;
 }
+a {
+	margin: auto;
+	display: block;
+	width: 30%;
+	font-size:30px
+
+}
+a > img {
+	margin: auto;
+	display: block;
+	width: 50%;
+	width: 500px;
+	height: 300px;
+}
 .Open {
 	color:blue; 
 	font-size:30px;
@@ -28,5 +42,6 @@ h3 {
 }
 .Closing {
 	color: blue;
-	font-size: 16px;
+	font-size: 20px;
+	border: solid 2px black;
 }
