@@ -74,3 +74,9 @@ footer {
 	color: white;
 	text-align: right;
 }
+@media screen and (max-width: 300px) {
+    iframe {
+        width: 30%;
+        height: 50%;
+    }
+}
