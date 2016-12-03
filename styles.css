@@ -38,7 +38,7 @@ a {
 	font-size:30px
 }
 a:hover {
-	color: red;
+	color: blue;
 }
 a > img {
 	margin: auto;
@@ -52,7 +52,8 @@ a > img {
 	font-size:30px;
 	text-align: center;
 	background-color: black;
-	padding: 5px;
+	padding: 15px;
+	font-family: sans-serif;
 }
 .Closing {
 	background-color: black;
@@ -60,6 +61,8 @@ a > img {
 	font-size: 20px;
 	text-shadow: 0 0 3px orange;
 	text-align: center;
+	margin-top: 30px;
+	padding: 20px;
 }
 footer {
 	color: white;
